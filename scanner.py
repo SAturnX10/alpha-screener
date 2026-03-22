@@ -2,8 +2,8 @@ import time
 import requests
 from datetime import datetime, timezone
 
-TOKEN = "8your_token_bot_token"
-CHAT = "6your_telegram_chat_id"
+TOKEN = "your_token_bot_token"
+CHAT = "your_telegram_chat_id"
 INTERVAL = 4
 MIN_SPREAD = 3.0
 MIN_VOL_X = 1.5
